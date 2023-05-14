@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<project name="LineageOS/android_device_google_bluejay" path="device/google/bluejay" remote="github" revision="lineage-20" />
+<project name="LineageOS/android_kernel_google_gs101" path="kernel/google/gs101/private/gs-google" remote="github" revision="lineage-20" />
+<project name="RisingOSS-devices/android_device_google_gs101" path="device/google/gs101" remote="github" revision="thirteen" />
+<project name="the-muppets/proprietary_vendor_google_bluejay" path="vendor/google/bluejay" remote="gitlab" revision="lineage-20" />
+
+</manifest>
